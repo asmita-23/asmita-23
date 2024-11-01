@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Data Science" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/Analytics_amp_Data_Science.gif">
+  <img alt="Data Science" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 </p>
 
 <p align="center"> 
