@@ -1,4 +1,4 @@
-![logo](https://github.com/asmita-23/asmita-23/blob/main/git.jpg)
+![logo](https://github.com/asmita-23/asmita-23/blob/main/github..mp4)
 <h1 align="center">Hi 👋, I'm Asmita Chavan</h1>
 <h3 align="center">A Passionate Data Analyst </h3>
 
