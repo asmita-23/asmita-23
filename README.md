@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 About
 
 <ul>
   <li>🎓 <strong>Education</strong>: Currently pursuing <strong>B.Tech in Production Engineering</strong> at <strong>VJTI (Mumbai)</strong></li>
