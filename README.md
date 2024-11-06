@@ -4,9 +4,6 @@
 <h3 align="center">A Passionate Data Analyst</h3>
 
 ---
-
-### 🌟 About
-
 <ul>
   <li>🎓 <strong>Education</strong>: Currently pursuing <strong>B.Tech in Production Engineering</strong> at <strong>VJTI (Mumbai)</strong></li>
   <li>🚀 <strong>Interning</strong>: Part of <strong>LearnNex's Training & Internship Program</strong> with <strong>IIIT Delhi</strong></li>
