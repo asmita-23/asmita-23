@@ -1,4 +1,4 @@
-![logo](https://github.com/asmita-23/asmita-23/blob/main/Screenshot%202024-11-01%20140711.png)
+![logo](https://github.com/asmita-23/asmita-23/blob/main/Screenshot%202024-12-22%20002342.png)
 
 <h1 align="center">Hi 👋, I'm Asmita Chavan</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-DA5B0D?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C94C?style=for-the-badge&logo=microsoft-powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Data Visualization -F2C94C?style=for-the-badge&logo=Data Visualization &logoColor=white" alt="Data Visualization "/>
 </p>
 
 ---
