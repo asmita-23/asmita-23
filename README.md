@@ -1,7 +1,6 @@
 ![logo](https://github.com/asmita-23/asmita-23/blob/main/Screenshot%202024-12-22%20002342.png)
 
-<h1 align="center">Hi 👋, I'm Asmita Chavan</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h3 align="center">Passionate About Unlocking Insights Through Data Science</h3>
 
 ---
 <ul>
